@@ -6,7 +6,7 @@
 #' @param df a \code{data.frame} with at least one numeric variable in order to
 #' get a non-empty result.
 #' @return a data.frame with the mean values of each numeric
-#' @importFrom dplyr summarise_if
+#' @importFrom magrittr %>%
 #' @author John Doe
 #' @export
 #' @examples
