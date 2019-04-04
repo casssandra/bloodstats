@@ -6,7 +6,7 @@ Author: person("Sandra","Luhtaniemi",email="sandra.luhtaniemi@gmail.com")
 Maintainer: The package maintainer <sandra.luhtaniemi@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.2.3)
 Imports:
   dplyr,
   magrittr
